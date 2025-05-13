@@ -94,9 +94,9 @@ Guard Robot is an advanced intelligent security robot designed for autonomous pa
 
 ## Contributors
 
+- **Shujian Yu** (224040221)
 - **Kaiyu Hu** (224040210)
 - **Yongkang Qin** (224040247)
-- **Shujian Yu** (224040221)
 
 ---
 
