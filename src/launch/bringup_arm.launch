@@ -1,0 +1,5 @@
+<launch>
+  <!-- 启动UARM机械臂控制 -->
+  <include file="$(find swiftpro)/launch/pro_control_nomoveit.launch"/>
+</launch>
+
